@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas Vindas a Este Perfil :)
 
-<!--
-**Kadu1201/Kadu1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Kauã
 
-Here are some ideas to get you started:
+E estou no ALura
+Estou Desenvolvendo um sistema Pelo JavaScript
+Utilizarei esse espaço para isso e Compartilhar MEu Projeto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## VocÊ pode entrar em contato comomigo 📧
+
+kauacarinhanha2016@gmail.com
+
+![](https://media1.tenor.com/m/qfjpEbXL5s8AAAAd/spider-man-miles-morales.gif)
